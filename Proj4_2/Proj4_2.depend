@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1505090459 source:f:\u盘\数据结构代码\proj4_2\algo4-2.cpp
+	<stdio.h>
+	<malloc.h>
+
+1505090469 source:f:\u盘\数据结构代码\proj4_2\main.cpp
+	<stdio.h>
+	<malloc.h>
+

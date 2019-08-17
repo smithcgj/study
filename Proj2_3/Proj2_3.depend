@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490022092 source:g:\数据结构代码\proj2_3\algo2_3.cpp
+	<stdio.h>
+	<malloc.h>
+
+1490022092 source:f:\u盘\数据结构代码\proj2_3\algo2_3.cpp
+	<stdio.h>
+	<malloc.h>
+
+1490064626 source:f:\u盘\数据结构代码\proj2_3\main.cpp
+	<stdio.h>
+	<malloc.h>
+
